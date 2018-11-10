@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{EC9BB3FF-8C0B-467A-8D5C-54E94B110222}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="matriz_nomesobrenome/Program.cs">
+    <Files>
+      <File FileName="matriz_nomesobrenome/Program.cs" Line="51" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.matriz__nomesobrenome PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
